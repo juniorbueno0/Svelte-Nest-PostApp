@@ -1,8 +1,8 @@
 ### Svelte - Nest PostApp
 
 
-### Svelte 
-### Npm i 
+# Svelte 
+## Npm i 
 ### npm run dev
 
 ### Nest Node.js backend framework
