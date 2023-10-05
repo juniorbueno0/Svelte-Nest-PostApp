@@ -1,12 +1,13 @@
-### Svelte - Nest PostApp
+# Svelte - Nest PostApp
 
+### :)
 
 # Svelte 
-## Npm i 
+### Npm i 
 ### npm run dev
 
-### Nest Node.js backend framework
+# Nest Node.js backend framework
 ### npm i 
 ### npm run start:dev
 
-### MongoDB
+# MongoDB
